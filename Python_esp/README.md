@@ -37,14 +37,9 @@ Este proyecto analiza el nivel de digitalización de los comercios en cinco ciud
 |-------------|-------------|------------|-------------------|--------------|---------------|
 | Online      | Tecnología  | Venta      | Ecommerce         | Construcción | Deportivo     |
 | Servicios   | Comercio    | Muebles    | Electrónica       | Computación  | Vehículos     |
-| Blanquería  | Maquinaria  | Telefonía  | Bazar             | Muebles      | Tienda        |
-| Web         | Repuestos   | Bazar      | Repuestos         | Ventas       | Blanquería    |
-| Ropa        | Hogar       | Tienda     | Web               | Regalería    | Telefonía     |
-| Online      | Tecnología  | Venta      | Electrodomésticos | Maquinaria   | Comercio      |
-| Servicios   | Ropa        | Regalería  | Tienda            | Venta Online | Inmobiliario  |
-
-
-
+| Blanquería  | Maquinaria  | Telefonía  | Electrodomésticos | Tienda       | Regalería     |
+| Web         | Repuestos   | Bazar      | Inmobiliario      | Ventas       | Venta Online  |
+| Ropa        | Hogar       |            |                   |              |               |
 
 
 ## 📊 Exploratory Data Analysis (EDA)
